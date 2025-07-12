@@ -23,7 +23,7 @@ Built with:
 
 ## 📸 Demo
 
-![WebWhiz UI Screenshot](screenshots/webwhiz_demo.png)
+![WebWhiz UI Screenshot](webwhiz_demo.png)
 
 ---
 
