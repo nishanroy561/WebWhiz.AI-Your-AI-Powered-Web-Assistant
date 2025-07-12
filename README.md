@@ -32,5 +32,5 @@ Built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/webwhiz-ai.git
-cd webwhiz-ai
+git clone https://github.com/nishanroy561/WebWhiz.AI-Your-AI-Powered-Web-Assistant.git
+cd WebWhiz.AI-Your-AI-Powered-Web-Assistant
