@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain_ollama
+langchain_mcp_adapters
+python-dotenv
